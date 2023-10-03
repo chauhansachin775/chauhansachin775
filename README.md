@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chauhansachin775
-- 👀 I’m interested in automation projects using selenium
+- 👀 I’m interested in automation projects using selenium, cypress and TestCafe
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on projects using selenium WebDriver to write automation test scripts
 - 📫 How to reach me qasachin.chauhan@gmail.com
